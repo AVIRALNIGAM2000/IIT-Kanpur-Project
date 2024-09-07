@@ -1,2 +1,2 @@
-# project 001
+# IIT kanpur 
 file_project_1
